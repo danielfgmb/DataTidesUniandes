@@ -1,0 +1,2 @@
+temperature_average (c),gravity_average (m/s2),velocity_average (m/s),period_average (s),samples,datetime_start (utc),datetime_end (utc),data_t_corrected,country,city,university,lat,long,alt
+19.232999999999997,9.76646452,26.57158584,3.3735638800000003,10,2022-01-19 05:55:31.324596+00:00,2022-01-19 05:56:01.681485+00:00,False,CO,BOG,Uniandes,4.6012,-74.0657,2630
